@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on krause.rocks</title>
-    <link>http://krause.rocks/categories/</link>
+    <link>https://krause.rocks/categories/</link>
     <description>Recent content in Categories on krause.rocks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     
-	<atom:link href="http://krause.rocks/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://krause.rocks/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
