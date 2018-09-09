@@ -3,42 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://krause.rocks/post/my-first-post/</loc>
-    <lastmod>2018-09-08T20:58:04+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://krause.rocks/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://krause.rocks/post/</loc>
-    <lastmod>2018-09-08T20:58:04+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://krause.rocks/tags/tag1/</loc>
-    <lastmod>2018-09-08T20:58:04+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://krause.rocks/tags/tag2/</loc>
-    <lastmod>2018-09-08T20:58:04+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://krause.rocks/tags/</loc>
-    <lastmod>2018-09-08T20:58:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://krause.rocks/</loc>
-    <lastmod>2018-09-08T20:58:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
