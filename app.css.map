@@ -1,1 +1,0 @@
-{"version":3,"sources":["app/styles.css"],"names":[],"mappings":"AAAA","file":"public/app.css","sourcesContent":["@import 'reset-css/reset';\n\n/* Base Imports */\n@import 'css/base/_base';\n@import 'css/base/_breakpoints';\n@import 'css/base/_colors';\n@import 'css/base/_variables';\n@import 'css/base/_typo';\n"]}
